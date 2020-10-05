@@ -4285,7 +4285,7 @@ Based on the previous libraries:
 <parts>
 <part name="FRAME1" library="SparkFun" deviceset="FRAME-LETTER" device=""/>
 <part name="U$1" library="SparkFun" deviceset="OSHW-LOGO" device="M"/>
-<part name="J4" library="SPCoast" deviceset="CONNECTOR-RJ25" device="-6P6C"/>
+<part name="J4" library="SPCoast" deviceset="CONNECTOR-RJ25" device="-6P6C" value="RJ45"/>
 <part name="X1" library="con-phoenix-508" deviceset="MSTBA6" device=""/>
 </parts>
 <sheets>
