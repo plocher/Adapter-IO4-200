@@ -583,14 +583,14 @@ design rules under a new name.</description>
 </pass>
 </autorouter>
 <elements>
-<element name="U$1" library="SparkFun" package="OSHW-LOGO-M" value="OSHW-LOGOM" x="31.496" y="21.59"/>
-<element name="J4" library="SPCoast" package="RJ25-PANEL" value="RJ45" x="19.05" y="26.67" smashed="yes" rot="R180">
+<element name="U$1" library="SparkFun" package="OSHW-LOGO-M" value="OSHW" x="31.496" y="21.59"/>
+<element name="J4" library="SPCoast" package="RJ25-PANEL" value="RJ12/6" x="19.05" y="26.67" smashed="yes" rot="R180">
 <attribute name="NAME" x="17.145" y="29.21" size="1.778" layer="25"/>
 <attribute name="VALUE" x="26.035" y="34.29" size="1.778" layer="27" rot="R180"/>
 <attribute name="AMP" value="520250-3" x="19.05" y="26.67" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="OPL" value="none" x="19.05" y="26.67" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="X1" library="con-phoenix-508" package="MSTBA6" value="MSTBA6" x="19.05" y="1.27" smashed="yes">
+<element name="X1" library="con-phoenix-508" package="MSTBA6" value="0.200" x="19.05" y="1.27" smashed="yes">
 <attribute name="OC_NEWARK" value="71C4165" x="19.05" y="1.27" size="0.8128" layer="27" display="off"/>
 <attribute name="MPN" value="1757284" x="19.05" y="1.27" size="0.8128" layer="27" display="off"/>
 <attribute name="MF" value="FARNELL" x="19.05" y="1.27" size="0.8128" layer="27" display="off"/>
